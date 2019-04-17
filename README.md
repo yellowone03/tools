@@ -1,4 +1,5 @@
 # tools
+一些在项目中用到的小工具，并且将来在其他项目中也可能可以应用。
 
 ## smtp\_sender.py
 smtp\_sender.py 主要用于发邮件。
